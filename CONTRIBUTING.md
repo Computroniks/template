@@ -1,3 +1,8 @@
+<!-- 
+SPDX-FileCopyrightText: 2021 Sidings Media <contact@sidingsmedia.com>
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 All contributions (including pull requests) must agree to the Developer
 Certificate of Origin (DCO) version 1.1. This is exactly the same one created
 and used by the Linux kernel developers and posted on [http://developercertificate.org/](http://developercertificate.org/).
